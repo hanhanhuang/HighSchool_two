@@ -4,4 +4,3 @@
 
 * `final_Python_Lottery` : Its funtion is to uniform lottery. 
 
-* `Design` : is a Tic Tac Toe Game designed by myself.
